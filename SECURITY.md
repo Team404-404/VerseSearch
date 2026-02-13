@@ -2,7 +2,7 @@
 
 ## Támogatott verziók
 
-Mivel ez egy egyszerű oktatási célú Flask alkalmazás, jelenleg csak a legfrissebb verzió támogatott:
+Jelenleg csak a legfrissebb kiadott verzió kap biztonsági frissítéseket:
 
 | Verzió   | Támogatott            |
 |----------|----------------------|
@@ -11,24 +11,22 @@ Mivel ez egy egyszerű oktatási célú Flask alkalmazás, jelenleg csak a legfr
 
 ## Biztonsági rés bejelentése
 
-Ez az alkalmazás **helyi fejlesztési környezetben** való futtatásra készült, és nem rendelkezik beépített biztonsági funkciókkal (pl. hitelesítés, HTTPS, bemenet szigorú validálása).
-
-### Ismert biztonsági korlátok
-- Nincs felhasználói hitelesítés
-- Nincs rate limiting
-- Nincs HTTPS beállítás
-- A keresés minden fájlt beolvas a `vers_tar` mappából
-- Nincs szűrés a fájlnevekre (bármilyen `.txt` fájlt betölt)
+Ha biztonsági rést vagy sebezhetőséget találsz az alkalmazásban, kérjük, az alábbi módon jelezd:
 
 ### Bejelentés módja
-Ha biztonsági rést találsz, kérjük, nyiss egy **GitHub Issue**-t, vagy írj a [biztonsag@pelda.hu](mailto:biztonsag@pelda.hu) címre.
+- **Email:** [problema@team404.smartbook.bolt.hu](mailto:problema@team404.smartbook.bolt.hu)
+- **GitHub:** Kérjük, **nyilvános Issue-ban NE** tedd közzé a biztonsági hibát! Használd a fenti email címet, vagy ha rendelkezésre áll, a **Security Advisory** funkciót.
 
-### Javasolt biztonsági intézkedések éles használat előtt
-- Bemeneti adatok szigorúbb validálása
-- HTTPS beállítása (pl. Let's Encrypt)
-- Hitelesítés hozzáadása ha szükséges
-- Rate limiting bevezetése
-- Környezeti változók használata érzékeny adatokhoz
+### Válaszidő
+- **Visszaigazolás:** 48 órán belül
+- **Állapotfrissítés:** Hetente, amíg a hiba javításra nem kerül
+- **Javítási határidő:** Kritikus hibák esetén 14 napon belül
 
-### Felelősség kizárása
-Ez az alkalmazás **oktatási célra** készült. Éles környezetben történő használat előtt **alapos biztonsági felülvizsgálat szükséges**.
+### Elfogadás / Elutasítás
+- Ha a bejelentést **elfogadjuk**, megkezdjük a javítást és értesítünk a megjelenésről
+- Ha **elutasítjuk**, indoklással ellátott választ küldünk (pl. nem biztonsági jellegű hiba, ismert probléma, szándékos működés)
+
+### Jóváírás
+A bejelentőt – kérésére – feltüntetjük a közreműködők között vagy a changelog-ban.
+
+Köszönjük, hogy segítesz minket az alkalmazás biztonságosabbá tételében!
