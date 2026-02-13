@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport">
+
+                                    <meta name="title" content="Magyar Elektronikus KÃ¶nyvtÃ¡r" lang="hu"/>
+                                                <meta name="robots" content="noindex nofollow"/>
+                                                <meta name="content-language" content="hu"/>
+                                                <meta name="description" content="" lang="hu"/>
+                                        <link rel="stylesheet" href="/oszkhtml/css/screen.css?1" type="text/css" media="screen, projection"/>
+                    <link rel="stylesheet" href="/oszkhtml/css/Sfw-custom.css" type="text/css" media="screen, projection"/>
+                    <link rel="stylesheet" href="/oszkhtml/css/modifier.css" type="text/css" media="stylesheet"/>
+                    <link rel="stylesheet" href="/oszkhtml/css/print.css" type="text/css" media="print, stylesheet"/>
+                    <link rel="stylesheet" href="/oszkhtml/css/SfwCookie.css" type="text/css" media="screen, projection, print"/>
+                    <link rel="stylesheet" href="/pdfmodal/pdf-modal.css" type="text/css" media="screen, projection, print"/>
+                            <script type="text/javascript" src="/oszkhtml/js/libs/mootools-core.js"></script>
+                    <script type="text/javascript" src="/oszkhtml/js/libs/mootools-more.js"></script>
+                    <script type="text/javascript" src="/oszkhtml/js/S-controller.js"></script>
+                    <script type="text/javascript" src="/oszkhtml/js/Sfw.js"></script>
+                    <script type="text/javascript" src="/js/email.js"></script>
+                                                <link type="image/png" href="/oszkhtml/favicon.png" rel="shortcut icon"/>
+                    <link type="image/png" href="/oszkhtml/favicon.png" rel="bookmark icon"/>
+                    <link type="image/png" href="/oszkhtml/favicon.png" rel="application-icon"/>
+                    
+            
+            
+            
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/oszkhtml/img/page/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/oszkhtml/img/page/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/oszkhtml/img/page/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/oszkhtml/img/page/favicon/site.webmanifest">
+        <link rel="mask-icon" href="/oszkhtml/img/page/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+
+
+            
+        
+        
+                <title>Magyar Elektronikus KÃ¶nyvtÃ¡r - Magyar Elektronikus KÃ¶nyvtÃ¡r</title>
+
+        <script type="text/javascript">/* /$.noConflict();/**/
+        function loaded() {
+            //alert(window.parent.bigsearch);
+            //alert(document.URL.includes(''));
+            if(window.parent.bigsearch == true) {
+                 //alert(document.getElementsByName('head'));
+                document.getElementById('mekhead').style.display = 'none';
+                //XH.setPrototy style.display = 'none';
+            } else {
+                document.getElementById('mekhead').style.display = 'block';
+                document.getElementById('mekhead').style.maxHeight = '600px';
+            }
+            
+            //alert(document.URL);
+            // alert(document.URL.indexOf('thematic'));
+            if(document.URL.indexOf('thematic') !== -1 && document.URL.indexOf('#') !== -1) {
+                // alert(document.URL.substr(document.URL.indexOf('#')+1));
+                //document.getElementById(document.URL.substr(document.URL.indexOf('#')+1)).
+                opentgroups(document.URL.substr(document.URL.indexOf('#')+1));
+            }
+        }
+        </script>
+
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V3WYCQT66C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+    gtag('config', 'G-V3WYCQT66C', { cookie_flags: 'SameSite=None;Secure' });
+</script>
+        
+    </head>
+    <body id="docbody" onload="loaded();" class="hu ">
+                <div class="BGstage" id="pagetop">
+                            <div class="spot Sfw_message">
+                    <div class="spot-inner">
+                                                    <p>A tartalom nem lÃ©tezik/elÃ©rhetÅ</p>
+                                                <div class="clear"><!-- --></div>
+                    </div></div>
+                <script type="text/javascript">
+                    var mpop = $$('.Sfw_message');
+                    mpop.setStyle('display', 'block');
+                    mpop.addEvent('click', function () {
+                        $$('.Sfw_message').setStyle('display', 'none');
+                    });
+
+
+
+                </script>
+                                                        <header id="mekhead" class="homep" style="overflow:hidden;max-height:1px;">
+                
+                
+                <div class="MV DC bighead">
+                    <h2><a href="/hu/">Magyar Elektronikus KÃ¶nyvtÃ¡r</a></h2>
+                                        <img class="dnone" src="/oszkhtml/img/page/indextopline.jpg"/>
+                    <div class="logoext">
+                    <h4>A nemzet kÃ¶nyvtÃ¡ra</h4>
+                    <h3><span>Magyar</span> Elektronikus KÃ¶nyvtÃ¡r</h3>
+                    <h5>OrszÃ¡gos SzÃ©chÃ©nyi KÃ¶nyvtÃ¡r</h5>
+                    </div>
+                                        
+                    
+                    <div class="clear"><!-- --></div>
+                </div>
+                <div class="clear"><!-- --></div>
+                <nav id="Xmenu">
+                    <a  href="/hu/aboutus/">RÃ³lunk</a>
+                    <a  href="/hu/contact/">Kapcsolat</a>
+                    
+                    
+                                        
+                                        
+                    
+                </nav>
+                
+                
+                
+                <a id="Xm" class="" href=""><b class="a"><!-- --></b><b class="b"><!-- --></b><b class="c"><!-- --></b></a>
+
+
+
+            <script type="text/javascript">
+                
+                var toS = 0;
+                var XMenu = false;
+                $('Xm').addEvents({'click': function (ev) {
+                        ev.stop();
+                        if (XMenu) {
+                            XMenu = false;
+                            $('Xmenu').fade('out');
+                            $('Xm').removeClass('xx');
+                            (function () {
+                                $('Xm').removeClass('x');
+                            }).delay(500);
+                        } else {
+                            XMenu = true;
+                            $('Xm').addClass('x');
+                            (function () {
+                                $('Xm').addClass('xx');
+                            }).delay(500);
+                            $('Xmenu').setStyles({'opacity': 0, 'display': 'block'})
+                            $('Xmenu').fade('in');
+                        }
+                    }});
+            </script>
+            <div class="clear"><!-- --></div>
+                
+                
+            </header>
+
+            <section class="ST MV">
+                <div class="DC CSS-index">
+
+
+        
+    
+    
+
+    
+<div class="clear"><!-- --></div>
+
+
+
+<div class="subsearch">
+        <h4><span class="rtext">KeresÃ©si lehetÅsÃ©gek</span></h4>
+        <a class="collection " href="/hu/search/elfull/">EgyszerÅ±  keresÃ©s</a>
+    <a class="details " href="/hu/search/detailed/">Ãsszetett keresÃ©s</a>
+    <div class="clear exsep"><!-- --></div>
+    <a class="details " href="/hu/thematic/">Tematikus</a>
+    <a class="fullsearch " href="/hu/search/elfulltext/">Teljes szÃ¶vegben</a>
+        
+        <h4><span class="rtext">ÃjdonsÃ¡gok</span></h4>
+    </div>
+
+<div class="clear"><!-- --></div>
+
+<div class="content">
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27891/">
+                                                <img src="/27800/27891/borito.jpg"/>
+                        <h4>Uy Ã©s Ã³ kalendariom Kristus Urunk szÃ¼letÃ©sse utÃ¡n valo M. DC. LXXIV. esztendÃ¶re kinek hossza 365. napot fÃ³glal [!] magaban, melxÃ³yben nagy szÃ³rgalmatossagal [!] el rendeltettenek. ...</h4>
+                                                <h5></h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27889/">
+                                                <img src="/27800/27889/borito.jpg"/>
+                        <h4>A sÃ¼rÃ¼ kereszt-viselÃ©sek habjai kÃ¶zt csÃ¼ggedezÃ¶ leleknek lelki batoritÃ¡sa. ...</h4>
+                                                <h5>Tolnai SzabÃ³ MihÃ¡ly</h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27887/">
+                                                <img src="/27800/27887/borito.jpg"/>
+                        <h4>Uj Ã©s O kalendariom, Christus Urunk szÃ¼letÃ©se utÃ¡n valo 1673, mellyet Magyar Ã©s ErdÃ©ly OrszÃ¡gra, Ã©s egyÃ©b szomszÃ©d hellyekre alkalmaztatott Neubart Chistoph Ã¡ltal. ...</h4>
+                                                <h5></h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27886/">
+                                                <img src="/27800/27886/borito.jpg"/>
+                        <h4>Janua linguae latinae reserata aurea sive seminarium linguae Latinae et scientiarum omnium. ...</h4>
+                                                <h5>Jan Amos KomenskÃ½</h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27885/">
+                                                <img src="/27800/27885/borito.jpg"/>
+                        <h4>Arany alma, avagy alkalmatos idÃ¶ben mondott ige, ...</h4>
+                                                <h5>KÃ¶lesÃ©ri SÃ¡muel</h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27884/">
+                                                <img src="/27800/27884/borito.jpg"/>
+                        <h4>Mirra-szedÃ¶ szarandok, avagy Christus Vrunk hÃ©t helyt lÃ¶tt kinnyait, Ã©s halÃ¡lÃ¡t beszÃ©llÃ¶ kÃ¶nyvecske, mellyet szerzett a Jesus TÃ¡rsasÃ¡gÃ¡ban lÃ©vÃ¶ P. Agoston Peter</h4>
+                                                <h5>Ãgoston PÃ©ter</h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27892/">
+                                                <img src="/27800/27892/borito.jpg"/>
+                        <h4>Temetesi pompa, mellyel az jo indulatu kegyes erkÃ¶lcsÃ¼ s nagy remensegÃ¼ ... nehai Bocskai Ujlaki Ferencznek az ...</h4>
+                                                <h5></h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27883/">
+                                                <img src="/27800/27883/borito.jpg"/>
+                        <h4>Catechismus, az az rÃ¶vid kÃ©rdÃ©sek Ã©s feleletek Ã¡ltal valÃ³ tanitas, a' keresztÃ©nyi hitnek fÃ¶ agazatirol</h4>
+                                                <h5>Siderius JÃ¡nos</h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27882/">
+                                                <img src="/27800/27882/borito.jpg"/>
+                        <h4>Uj Ã©s O kalendariom, e Christus szÃ¼letÃ©se utÃ¡n valÃ³ fÃ©lelmes bissextilis 1672. eszt. mellyet most-is Magyar Ã©s ErdÃ©ly OrszÃ¡gra, Ã©s egyÃ©b szomszÃ©d helyekre alkalmaztatott Neubarth Christoph, theologus Ã©s astrologus</h4>
+                                                <h5></h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27879/">
+                                                <img src="/27800/27879/borito.jpg"/>
+                        <h4>Libellvs elegantissimvs, qui inscribitur [C]ato, de praeceptis vitae communis</h4>
+                                                <h5></h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27877/">
+                                                <img src="/27800/27877/borito.jpg"/>
+                        <h4>A Szent BibliÃ¡nak Ã³ testÃ¡mentomi kÃ¶nyveibÃ¶l edgybe szedegettetett ahitatos kÃ¶nyÃ¶rgesek, mellyeket belgiomi nyelvbÃ¶l magyar nyelvre forditott Szokolyai Istvan</h4>
+                                                <h5>Szokolyai Anderko IstvÃ¡n</h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+        
+    <div class="mekitem">
+                <div class="in">
+                    <a href="/27800/27876/">
+                                                <img src="/27800/27876/borito.jpg"/>
+                        <h4>Meny-orszÃ¡g kinyittatott edgyetlen-edgy szoros kapuja, mellyen a' sok hivatalosok kÃ¶zzÃ¼l kevesen mennek bÃ©, az Ã¶rÃ¶k Ã©letre, ...</h4>
+                                                <h5></h5>
+                                                                        <h5>2025. 09. 02.</h5>
+                                            </a>
+                </div>
+            </div>
+    
+    </div>
+
+<div class="clear"><!-- --></div>
+<div class="subsearch fullist">
+    <a href="/hu/items/">TovÃ¡bb a teljes listÃ¡ra</a>
+</div>
+<div class="clear"><!-- --></div>
+
+
+<div class="oszklinks">
+    
+    <div class="oszkb">
+        <a class="aa" href="https://mnmkk.hu/"><span>OrszÃ¡gos SzÃ©vhÃ©nyi KÃ¶nyvtÃ¡r<span></a>
+                    <span class="ab">&nbsp;</span>
+        <a class="bb" href="https://oszk.hu/"><span>OrszÃ¡gos SzÃ©vhÃ©nyi KÃ¶nyvtÃ¡r</span></a>
+    </div>
+    
+        
+    <a class="twitt" target="_blank" href="https://twitter.com/nemzetikonyvtar"><span>X</span></a>
+    <a class="face" target="_blank" href="https://www.facebook.com/nemzetikonyvtar"><span>Facebook</span></a>
+    <a class="insta" target="_blank" href="https://instagram.com/nemzetikonyvtar"><span>Instagram</span></a>
+    <a class="youtube" target="_blank" href="https://www.youtube.com/@nemzetikonyvtar"><span>Youtube</span></a>
+    
+    <a class="spotify" target="_blank" href="https://open.spotify.com/show/6zYFtwUOoblM9F84CCeAGr?si=BFvjMVUhQGeyl_6pv8bV2w"><span>Spotify</span></a>
+    <a class="tiktok" target="_blank" href="https://www.tiktok.com/@nemzetikonyvtar"><span>Tiktok</span></a>
+</div>
+<div class="clear"><!-- --></div>
+</div>
+<div class="clear"><!-- --></div>
+
+</section>
+            
+<footer class="DC">
+    <div class="in">
+        <div class="oszk">
+            <a class="mnmkk" target="_blank" href="https://mnmkk.hu/">
+                <img src="/oszkhtml/img/page/logo-mnmkk_grey.svg"/>
+                </a>
+                <a class="foszk" target="_blank" href="https://oszk.hu/">
+                <img src="/oszkhtml/img/page/oszk_gray.svg"/>
+                </a>
+            <div class="clear"><!-- --></div>
+                            <span><span class="incr">A nemzet kÃ¶nyvtÃ¡ra</span>
+                <br>
+                <span class="ftext">
+                <i>
+                    ahogy mÃ©g </i>
+                <b>
+                    sohasem lÃ¡tta
+                </b>
+                </span>
+            </span>
+            
+                
+        </div>
+    <div class="men"><div class="in">
+            <a class="ftop" href="/hu/contact/">Kapcsolat</a>
+        <div class="incont addr">
+            <p>1014 Budapest,<br/>
+                                Szent GyÃ¶rgy tÃ©r 4<b>&boxh;</b>5<b>&boxh;</b>6.
+                <br/>
+            <a class="toletter" href="mailto:mek[}kukac{]oszk[}pont{]hu">mek[}kukac{]oszk[}pont{]hu</a><br/>
+            +36 (1) 224-3741
+            </p>
+        </div>
+    </div></div>
+        <div class="men"><div class="in">
+                <a class="ftop" href="/hu/aboutus/">RÃ³lunk</a>
+                <div class="incont">
+                                         
+                    <a href="/hu/aboutus/#introduction">BemutatkozÃ¡s</a>
+                                        <a href="/hu/aboutus/#sponsors">Szakmai oldalak</a>
+
+                    <a href="/hu/aboutus/#partners">Partnerek, tÃ¡mogatÃ³k</a>
+                            </div>
+            </div></div>
+        
+    <div class="men"><div class="in">
+            <a class="ftop" href="/hu/copyrights/">AdatvÃ©delem</a>
+                        <div class="incont">
+                                  <a href="/hu/copyrights/#b">AdatvÃ©delmi Ã©s jogi nyilatkozat</a>
+        </div>        </div></div>
+    <div class="men"><div class="in">
+        <a class="ftop" href="/hu/imprint/">Impresszum</a>
+        <div class="incont">
+            <a class="copyex" href="/hu/imprint/#a">&copy; MNMKK OSZK 1999<b>&boxh;</b></a>
+                   </div>        </div></div>    <div class="clear"><!-- --></div>
+    </div>
+    <div class="clear"><!-- --></div>
+</footer>
+<div class="clear"><!-- --></div></div>
+
+<div id="pdfOverlay" class="pdf-overlay">
+        <div class="pdf-modal-content">
+            <!-- BezÃ¡rÃ³ gomb jobb felÃ¼l -->
+            <a class="pdfX" id="closePdfBtn">&times;</a>
+
+            <!-- PDF.js iframe -->
+            <iframe 
+                id="pdfViewer"
+                src=""
+                frameborder="0"
+                allowfullscreen
+                webkitallowfullscreen>
+            </iframe>
+        </div>
+    </div>
+<script src="/pdfmodal/pdf-modal.js"></script>
+
+<script type="text/javascript"> var gemius_identifier = "nA5K38S_R6j5UvHZZUaBxcUFjzOBaptU.eLGPQLqtjX.r7"; function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+"_pdata"] = window[i+"_pdata"] || []; x[x.length]=arguments;};};gemius_pending("gemius_hit"); gemius_pending("gemius_event"); gemius_pending("pp_gemius_hit"); gemius_pending("pp_gemius_event");(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l="http"+((location.protocol=="https:")?"s":""); gt.setAttribute("async","async");gt.setAttribute("defer","defer"); gt.src=l+"://gthu.hit.gemius.pl/gemius.js"; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,"script"); </script> </body>
+</html>
